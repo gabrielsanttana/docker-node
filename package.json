@@ -1,0 +1,24 @@
+{
+  "name": "docker-nodejs",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <img src=\"https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png\" width=\"130\" height=\"130\"/> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielsanttana/docker-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielsanttana/docker-nodejs/issues"
+  },
+  "homepage": "https://github.com/gabrielsanttana/docker-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
