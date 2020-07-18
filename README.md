@@ -4,4 +4,4 @@
 
 ###
 
-Docker with Node.js studies 🐋
+<p align="center">Docker with Node.js studies 🐋</p>
